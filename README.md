@@ -1,6 +1,7 @@
-# FlowQ: Virtual Front Desk Queue Management System
+# FlowQ: Front Desk Queue Management System
 
-An operational workflow solution built for **Henry Ford Health** to mitigate patient throughput bottlenecks in high-volume, walk-in ancillary services. This web application optimizes waiting room congestion, enhances registrar collaboration, provides data-driven performance metrics, and ensures data safety for sensitive PHI/PII.
+## Overview
+At Henry Ford Health, I am a patient registration representative responsible for processing patients for walk-in ancillary services. In my department, we experience severe traffic surges that congest the waiting room and overwhelm the frontline staff. To mitigate our throughput bottleneck, I created a solution to optimize our operational workflow and improve patient experience and safety. I developed a virtual queue management system to reduce wait times, enhance team collaboration, track performance metrics, and protect sensitive PHI and PII.
 
 ## 🚀 Tech Stack
 * **Frontend Framework:** Next.js
